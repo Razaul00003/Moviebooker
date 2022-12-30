@@ -6,7 +6,7 @@ import { LinkContainer } from "react-router-bootstrap";
 
 function Header() {
   return (
-    <Navbar bg="success" expand="lg">
+    <Navbar bg="success" expand="lg" variant="dark">
       <Container>
         <Navbar.Brand className="text-white fw-bold">tvMaze</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
