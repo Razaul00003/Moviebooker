@@ -1,6 +1,11 @@
 # Getting Started with Create React App
 
+(https://tv-mazer.netlify.app/)[https://tv-mazer.netlify.app/]
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![tvMazeHome](https://user-images.githubusercontent.com/62474138/210088789-609e3c37-4fc4-4a36-9fef-b127ae7c8f9a.png)
+![tvMaze mobile view](https://user-images.githubusercontent.com/62474138/210088805-a16bb841-17a1-49f7-8746-1d6dc9838d07.png)
+![tvMaze booking page](https://user-images.githubusercontent.com/62474138/210088824-6a4cfa77-fdd4-4cc7-b293-a7d2cb53d22f.png)
 
 ## Available Scripts
 
